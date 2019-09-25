@@ -36,5 +36,12 @@ The value for P<sub>c;</sub> will be determined by the program experimentaly.
 ![Basic Concept](images/pythag.jpg?raw=true "Title")
 
 8. If the distance __d__ is less than 1, then increment __success__
-9. Calculate P<sub>c</sub>
+9. Calculate P<sub>c</sub> 
 
+![Basic Concept](images/success.jpg?raw=true "Title")
+
+10. Calculate &pi; by using equation __&pi;__ = 4(__P<sub>c</sub>__)
+11. Print out  &pi; every so often. Since ```System.out.println``` is slow, only print it once out every 100,000 times.
+12. End the loop.
+
+The program will quickly converge to about 3.141. It is not real accurate but it does illustrate the concept.
