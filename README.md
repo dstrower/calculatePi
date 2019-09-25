@@ -1,5 +1,4 @@
 # calculatePi
-Calculate __&pi;__ 
 This program calculates the number __&pi;__
 
 Usually this done using an infinate series. However, it can also be calculated using the randon number generator.
